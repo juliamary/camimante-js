@@ -1,0 +1,6 @@
+.walking {
+			background: url(capguy-walk.png);
+			width: 102px; /* 612px / 6 */
+			height: 148px;
+			line-height: 1%;
+		}
